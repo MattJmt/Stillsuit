@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+qwiic/__init__.py
+sparkfun_qwiic.egg-info/PKG-INFO
+sparkfun_qwiic.egg-info/SOURCES.txt
+sparkfun_qwiic.egg-info/dependency_links.txt
+sparkfun_qwiic.egg-info/requires.txt
+sparkfun_qwiic.egg-info/top_level.txt
